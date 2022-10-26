@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello! My name is Sam 👋
+### Im a digital artist currently studying at (https://www.cevbarcelona.com/)
 
-<!--
-**SamuelLinares2A/SamuelLinares2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ArtstationLogo](#13AFF0)](https://www.artstation.com/shmuelidabi)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+
+## Here are the softwares that I use:
+
+[!Marmoset Toolbag]()
+<br>
+
+[!Autodesk 3DSMAX]()
+<br>
+
+[!Autodesk Maya]()
+<br>
+
+[!ZBrush]()
+<br>
+
+[!Unity]()
+<br>
+
+[!Unreal Engine]()
+<br>
+
+[!Adobe Photoshop]()
+<br>
+
+[!Adobe Substance Painter]()
+<br>
+
+[!Adobe Substance Designer]()
+<br>
+
