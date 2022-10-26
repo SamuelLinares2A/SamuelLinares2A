@@ -1,6 +1,7 @@
 # Hello! My name is Sam 👋
 ### Im a digital artist currently studying at (https://www.cevbarcelona.com/)
 
+Here is my portfolio:
 [![ArtstationLogo](#13AFF0)](https://www.artstation.com/shmuelidabi)
 
 
