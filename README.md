@@ -12,30 +12,30 @@ width="200"> </a>
 
 ## Here are the softwares that I use:
 
-[Marmoset Toolbag]()
+Marmoset Toolbag
 <br>
 
-[Autodesk 3DSMAX]()
+Autodesk 3DSMAX
 <br>
 
-[Autodesk Maya]()
+Autodesk Maya
 <br>
 
-[ZBrush]()
+ZBrush]
 <br>
 
-[Unity]()
+Unity
 <br>
 
-[Unreal Engine]()
+Unreal Engine
 <br>
 
-[Adobe Photoshop]()
+Adobe Photoshop
 <br>
 
-[Adobe Substance Painter]()
+Adobe Substance Painter
 <br>
 
-[Adobe Substance Designer]()
+Adobe Substance Designer
 <br>
 
